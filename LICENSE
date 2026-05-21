@@ -1,36 +1,47 @@
-Alertify App – Proprietary License
-Copyright © 2025 Alertify
+Alertify Prototype Proprietary License
 
+Copyright © 2025 Miguel Lobato, Guilherme Louro, and Rafael Gusmão.
 All rights reserved.
 
-📌 License Terms
-The Alertify software (the "Software"), including source code, design, features, UI/UX, concepts, and documentation provided in this repository, is the exclusive intellectual property of Alertify, a non-registered startup project.
+This repository contains the Alertify prototype, including source code, documentation, design assets, user interface materials, and other original project materials created by the authors.
 
-By accessing or using this repository, you agree to the following conditions:
+The repository is made available publicly for portfolio, review, and educational visibility purposes only.
 
-Personal, Non-Commercial Use Only
+Permissions
 
-You may use, review, or inspect this software for personal or educational purposes only.
-You may NOT commercially redistribute, sell, sublicense, transfer, or commercially deploy the software without explicit written permission from the owners.
-No Derivative Works
+You may:
+- View and inspect the contents of this repository.
+- Clone or fork the repository only to the extent permitted by GitHub's Terms of Service.
+- Run the software locally for personal evaluation or educational review.
 
-You may not create, distribute, or otherwise use derivative works or adaptations without prior written approval from the owners.
-Attribution and Ownership
-
-The software must be attributed clearly to Alertify in all references.
-Ownership and intellectual property rights remain exclusively with the authors of Alertify.
 Restrictions
 
-You are expressly prohibited from:
-Selling, licensing, or commercially exploiting this Software in whole or part.
-Modifying the Software to create competing applications or products.
-Hosting or distributing modified or unmodified copies publicly for commercial or private use without explicit consent.
-Disclaimer of Liability
+You may not, without prior written permission from the copyright holders:
+- Use the software, source code, design assets, documentation, or other project materials for commercial purposes.
+- Redistribute, sublicense, sell, rent, lease, or otherwise make the software available to third parties.
+- Publish modified or unmodified copies of the software outside this repository.
+- Create derivative works, adaptations, competing products, or substantially similar applications based on this software.
+- Deploy, host, or operate the software as a public or private service.
+- Remove copyright notices, attribution, or ownership references.
 
-THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
-⚠️ Special Permissions
-To request a commercial license, special permissions, or discuss commercial deployment, please contact the project authors directly via the contact information provided in this repository.
-🚨 Violation of Terms
-Unauthorized commercial use or distribution will be treated as infringement, and necessary legal action may be pursued.
-© 2025 Alertify
-All Rights Reserved.
+Ownership
+
+All rights, title, and interest in the Alertify prototype remain with the copyright holders.
+
+The name "Alertify", associated branding, original design materials, source code, documentation, and implementation details remain the property of the authors.
+
+Third-Party Software
+
+This license does not apply to third-party libraries, frameworks, packages, tools, or dependencies used by the project. Those components remain subject to their own respective licenses.
+
+No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+Permission Requests
+
+For commercial licensing, special permissions, collaboration, or deployment requests, contact the project authors directly.
+
+Any use of this software outside the permissions granted above requires prior written authorization from the copyright holders.
